@@ -1,11 +1,12 @@
-# Instagram Clone App UI
+# Instagram - Cloned App UI
 
-## [Download App Demo APK ⬇️📱](https://drive.google.com/file/d/1EmoGzeltFcirPZGDLlVxjPWnUke87uj8/view)
+<!-- ## [Download App Demo APK ⬇️📱](https://drive.google.com/file/d/1EmoGzeltFcirPZGDLlVxjPWnUke87uj8/view) -->
 
-- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on youtube](https://youtu.be/fJnmr22-Y7A)
+<!-- - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true) -->
+<!-- - [Watch on youtube](https://youtu.be/fJnmr22-Y7A) -->
+- [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
 
-![Instagram App UI](https://user-images.githubusercontent.com/16510597/88460567-58b08a80-cec7-11ea-9edb-568f80c1a09a.jpg)
+![Instagram App UI](https://drive.google.com/file/d/1ywAPBLlwiaJ1pX7pcc7a32yOKsAnWYnS/view?usp=sharing)
 
 A new Flutter project.
 

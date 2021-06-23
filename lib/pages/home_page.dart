@@ -1,5 +1,4 @@
 
-
 import 'package:flutter/material.dart';
 import 'package:ig_ui_app/constant/post_json.dart';
 import 'package:ig_ui_app/constant/story_json.dart';
