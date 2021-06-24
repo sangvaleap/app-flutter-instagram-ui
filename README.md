@@ -1,14 +1,8 @@
 # Instagram - Cloned App UI
 
-<!-- ## [Download App Demo APK ⬇️📱](https://drive.google.com/file/d/1EmoGzeltFcirPZGDLlVxjPWnUke87uj8/view) -->
-
-<!-- - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true) -->
-<!-- - [Watch on youtube](https://youtu.be/fJnmr22-Y7A) -->
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
 
 - Email: sangvaleap.vanny@gmail.com
-
-A new Flutter project.
 
 ## Getting Started
 
