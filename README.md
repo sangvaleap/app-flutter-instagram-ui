@@ -6,8 +6,6 @@
 <!-- - [Watch on youtube](https://youtu.be/fJnmr22-Y7A) -->
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
 
-![Instagram App UI](https://gitlab.com/sangvaleap.vanny/screenproject/-/blob/main/Screen_Shot_2021-06-23_at_3.18.04_PM.png)
-
 A new Flutter project.
 
 ## Getting Started
