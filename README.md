@@ -1,14 +1,11 @@
 # Instagram - Cloned App UI
 
-<!-- ## [Download App Demo APK ⬇️📱](https://drive.google.com/file/d/1EmoGzeltFcirPZGDLlVxjPWnUke87uj8/view) -->
-
-<!-- - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true) -->
-<!-- - [Watch on youtube](https://youtu.be/fJnmr22-Y7A) -->
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
+- Email: sangvaleap.vanny@gmail.com
 
-![Instagram App UI](https://gitlab.com/sangvaleap.vanny/screenproject/-/blob/main/Screen_Shot_2021-06-23_at_3.18.04_PM.png)
-
-A new Flutter project.
+![Screen_Shot_2021-06-25_at_3.32.59_PM](/uploads/c2026e42a2ea81f474d498b581ffd520/Screen_Shot_2021-06-25_at_3.32.59_PM.png)
+![Screen_Shot_2021-06-25_at_3.33.19_PM](/uploads/0f8cb21d2cb66cfcb0aa600a0f8592c4/Screen_Shot_2021-06-25_at_3.33.19_PM.png)
+![Screen_Shot_2021-06-25_at_3.36.18_PM](/uploads/3b644c9cba216af978f54ea93cf1be27/Screen_Shot_2021-06-25_at_3.36.18_PM.png)
 
 ## Getting Started
 
