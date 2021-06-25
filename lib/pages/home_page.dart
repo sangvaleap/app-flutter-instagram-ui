@@ -79,9 +79,9 @@ class _HomePageState extends State<HomePage> {
             
             ],),
           ),
-          Divider(
-            color: white.withOpacity(0.3),
-          ),
+          // Divider(
+          //   color: white.withOpacity(0.3),
+          // ),
           Column(
             children: List.generate(posts.length, (index){
               return PostItem(
