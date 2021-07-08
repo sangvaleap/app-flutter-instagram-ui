@@ -1,7 +1,9 @@
 # Instagram - Cloned App UI
 
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
-- Email: sangvaleap.vanny@gmail.com
+- [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
+- [My Instagram](https://www.instagram.com/sangvaleap.v/)
+- My Email: sangvaleap.vanny@gmail.com
 
 ![Screen_Shot_2021-06-25_at_3.32.59_PM](/uploads/c2026e42a2ea81f474d498b581ffd520/Screen_Shot_2021-06-25_at_3.32.59_PM.png)
 ![Screen_Shot_2021-06-25_at_3.33.19_PM](/uploads/0f8cb21d2cb66cfcb0aa600a0f8592c4/Screen_Shot_2021-06-25_at_3.33.19_PM.png)
