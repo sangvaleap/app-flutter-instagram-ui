@@ -5,19 +5,6 @@
 - [My Instagram](https://www.instagram.com/sangvaleap.v/)
 - My Email: sangvaleap.vanny@gmail.com
 
-![Screen_Shot_2021-06-25_at_3.32.59_PM](/uploads/c2026e42a2ea81f474d498b581ffd520/Screen_Shot_2021-06-25_at_3.32.59_PM.png)
-![Screen_Shot_2021-06-25_at_3.33.19_PM](/uploads/0f8cb21d2cb66cfcb0aa600a0f8592c4/Screen_Shot_2021-06-25_at_3.33.19_PM.png)
-![Screen_Shot_2021-06-25_at_3.36.18_PM](/uploads/3b644c9cba216af978f54ea93cf1be27/Screen_Shot_2021-06-25_at_3.36.18_PM.png)
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="495" alt="Screen Shot 2021-12-01 at 8 01 52 PM" src="https://user-images.githubusercontent.com/86506519/144239205-98619725-e3a0-4c00-80d6-307f2a95197b.png">
+<img width="509" alt="Screen Shot 2021-12-01 at 8 02 12 PM" src="https://user-images.githubusercontent.com/86506519/144239210-9032543c-90c5-4db0-ba4d-0ec40293078d.png">
+<img width="506" alt="Screen Shot 2021-12-01 at 8 02 29 PM" src="https://user-images.githubusercontent.com/86506519/144239216-d422e95a-8b53-4869-8b95-f6ce4d2cb5b9.png">
